@@ -1,0 +1,15 @@
+{
+    "name": "mysql-request",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "start:debug": "node --inspect server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "mysql": "^2.17.1"
+    }
+  }
